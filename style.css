@@ -1,0 +1,83 @@
+.heading{
+    color: red;
+}
+.head{
+    color: blue;
+}
+.color1{
+    color: orange;
+}
+.color2{
+    color: green;
+}
+.color3{
+    color: purple;
+}
+.colorrgb{
+    color: rgb(240, 124, 122);
+}
+.colorhex{
+    color: #000000;
+}
+
+.background{
+    background-color: chocolate;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.border1{
+    border-style: dashed;
+}
+.border2{
+    border-style: solid;
+}
+.border3{
+    border-style: dotted;
+}
+
+.margin{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: black;
+    height: 300px;
+    width: 500px;
+}
+
+.box{
+    background-color: #000000;
+    width: 300px;
+    height: 150px;
+}
+
+.padding{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 20px;
+    color:white;
+}
+.text{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+}
+
+.link{
+    color: rgb(255, 51, 0);
+}
+a:hover{
+    color: teal;
+}
+a:active{
+    color: rgb(160, 45, 160);
+}
+
+.google{
+    opacity: 0.5;
+}
+.google:hover{
+    opacity: 1;
+}
